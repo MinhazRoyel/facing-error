@@ -9,3 +9,4 @@ def index(): #even the event app route will occure this function will be called
 
 if __name__ == '__main__': #when it is called directly 
     app.run(host='0.0.0.0',port=5555, debug=True) #host port debug = continuous debuiging
+#added
